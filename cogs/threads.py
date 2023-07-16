@@ -1,5 +1,7 @@
 import discord
 
+import core
+
 
 class Embeds(core.Cog):
     """Send or edit embeds!"""
